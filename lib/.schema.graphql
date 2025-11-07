@@ -1,0 +1,30 @@
+User {
+  firstName: String!
+  lastName: String!
+  email: String!
+  password: String!
+  firstTimeLogin: boolean!
+  zipcode:String
+}
+
+Category {
+  name: String!
+  description: String
+}
+
+Events {
+  name: String!
+  description: String!
+  eventDate: Date!
+  startTime: String!
+  endTime: String!
+  City: String!
+  Zipcode: String!
+  category: Category!
+  organizer: User!
+  imageUrl: String
+  maxAttendees: Int
+  musicTourName: String
+  venueName: String
+}
+

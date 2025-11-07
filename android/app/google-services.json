@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162863362569",
+    "project_id": "litm-6b3ea",
+    "storage_bucket": "litm-6b3ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162863362569:android:8d0aea14b0c1782828fed8",
+        "android_client_info": {
+          "package_name": "com.test.litm_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx6BUaFIchNHPMgOgXgwTqOdhJmswDV_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
