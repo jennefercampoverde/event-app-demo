@@ -13,23 +13,23 @@ I first started with setting up my environment installing the correct packages n
 Once a empty application was running I did some research as to what color palette I would use and the different types of user interface designs that could be used. I looked through various UI screenshots other developers posted and looked up popular apps that were made using flutter for inspiration. 
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/Design-Colors.jpg" alt="Design Colors " width="500" height="500"/>
+<img src="assets/icons/Design-Colors.jpg" alt="Design Colors " width="500" height="500"/>
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/interfaceInspo.png" alt="Design Inspo " width="500" height="600"/>
+<img src="assets/icons/interfaceInspo.png" alt="Design Inspo " width="500" height="600"/>
 
 
 After gathering research, I decided to create a static prototype on Figma as to how each page would look like using the different colors and the overall layout. From that point after watching videos on how to setup Firebase with Flutter I decided to create a diagram in order to help break down the order of how the pages were going to interact from one another and what would be the page flow. 
 
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/design1.png" alt="Design 1 " />
+<img src="assets/icons/design1.png" alt="Design 1 " />
 
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/design2.png" alt="Design 2 " />
+<img src="assets/icons/design2.png" alt="Design 2 " />
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/diagram.png" alt="Diagram " />
+<img src="assets/icons/diagram.png" alt="Diagram " />
 
 I first created the static pages using different elements for the register, zipcode and login page. After that, I tried to go back and add functionality to each page using the database which is where I made my first mistake. I should have made some simple elements at first, worked on the functionality and then gone back to made design edits. 
 
@@ -37,7 +37,7 @@ In terms of the database I used Colletion Query rather than Document Retrievel s
 
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/cloudFireStore.png" alt="Firebase Screenshot " />
+<img src="assets/icons/cloudFireStore.png" alt="Firebase Screenshot " />
 
 ## Notes
 
@@ -49,14 +49,14 @@ This was my first time using Flutter, Dart, and Firebase as my tech stack for a 
 
 For my project management tool I decided to use Jira for the first time in order to break down tasks and create a visualizing as to what I needed to accomplish.
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/jiraOverview.png" alt="Jira Overview " />
+<img src="assets/icons/jiraOverview.png" alt="Jira Overview " />
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/JiraDetail1.png" alt="Jira Detail 1 " />
+<img src="assets/icons/JiraDetail1.png" alt="Jira Detail 1 " />
 
 
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/JiraDetail2.png" alt="Jira Detail 2 " />
+<img src="assets/icons/JiraDetail2.png" alt="Jira Detail 2 " />
 
 
 Estimated Time Break Down
@@ -83,14 +83,14 @@ To run this application, you will need to have Firebase and Firebase installed i
 
 To run the app, using Android Studio you must select a device from your list of emulators or a physical device you have connected. You can then click the "Run" play button on the top right hand side. 
 
-![Project Screenshot](/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/androidScreen.png) 
+![Project Screenshot](assets/icons/androidScreen.png) 
 
 
 Select new user and you be prompted to a login page where you will fill in the details if you have an account. If you do not have an account you will have to click "New User?Register Here" and from there sent to the registration page, where you will fill out your information.
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/loginScreen.png" alt="Login Page Screenshot" width="300" height="600"/>
+<img src="assets/icons/loginScreen.png" alt="Login Page Screenshot" width="300" height="600"/>
 
-<img src="/Users/jennefer/AndroidStudioProjects/LITM_Project/assets/icons/registerPage.png" alt="Register Page Screenshot" width="300" height="600" />
+<img src="assets/icons/registerPage.png" alt="Register Page Screenshot" width="300" height="600" />
 
 ## Getting Started 
 
