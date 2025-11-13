@@ -1,9 +1,14 @@
-# LITM Internship Program Test
+# Event App (Internship Technical Test)
 
 
 ## Project Overview 
 
-This project is a starting point for a event Flutter + Firebase application. The goal of this project is to connect users to their communities by increasing awareness of the different events near me. 
+This project is a starting point for a event Flutter + Firebase application. The goal of this project is to connect users to their communities by increasing awareness of the different events near me. Further this project was created as part of a technical assessment for an internship. It was my first time I worked with a new tech stack but it was rewarding in the end getting familiar using Dart, Flutter, and Firebase. Some features are incomplete, but the project demonstrates my learning process and ability to pick up new tools under a deadline. This project is here for portfolio purposes and is not under active development, all code and designs are my own work.
+
+## Tech Stack
+- **Frontend** Flutter(Dart)
+- **Backend** Firebase Firestore
+- **Tools** Android Studio, Git, Github, Figma
 
 
 ## Project Logic & Architecture
